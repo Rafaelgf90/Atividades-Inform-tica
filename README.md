@@ -1,1 +1,1 @@
-# Atividades-Inform-tica
+# Atividades-Informatica
