@@ -16,3 +16,11 @@ Atividades de Informática
 
 
 ![image](https://github.com/user-attachments/assets/d31f372c-d81c-412c-80a7-4bf263530719)
+
+
+![image](https://github.com/user-attachments/assets/c37da498-f37e-414f-87c2-d4ed4f9ff174)
+
+
+![image](https://github.com/user-attachments/assets/e417b128-474e-41ff-803e-3fc2b2a7e232)
+
+
