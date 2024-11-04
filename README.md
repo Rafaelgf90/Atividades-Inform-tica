@@ -10,5 +10,9 @@
 
 ⚡ Tenho uma deficiência fisíca mas mesmo assim ainda jogo futebol
 
-Primeira atividade de informática
+Atividades de Informática
+
+![image](https://github.com/user-attachments/assets/6b9248c9-fb61-448b-85ff-3bb0b143acda)
+
+
 ![image](https://github.com/user-attachments/assets/d31f372c-d81c-412c-80a7-4bf263530719)
