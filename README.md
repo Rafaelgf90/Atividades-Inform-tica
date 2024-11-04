@@ -1,4 +1,4 @@
-👋 Olá, sou o Rafael
+👋 Sou Rafael
 
 👀 Tenho interesse em desenvolver novas habilidades
 
@@ -8,7 +8,6 @@
 
 📫 Me procure no linkedin [https://www.linkedin.com/feed/](https://www.linkedin.com/in/rafael-gon%C3%A7alves-520368184/)
 
-⚡ Tenho uma deficiência fisíca mas mesmo assim ainda jogo futebol
 
 Atividades de Informática
 
