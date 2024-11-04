@@ -18,6 +18,7 @@ Atividades de Informática
 ![image](https://github.com/user-attachments/assets/d31f372c-d81c-412c-80a7-4bf263530719)
 
 
+https://app.powerbi.com/links/6jOu9Y6lfT?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 ![image](https://github.com/user-attachments/assets/c37da498-f37e-414f-87c2-d4ed4f9ff174)
 
 
