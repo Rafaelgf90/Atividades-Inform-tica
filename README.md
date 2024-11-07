@@ -9,6 +9,8 @@
 📫 Me procure no linkedin [https://www.linkedin.com/feed/](https://www.linkedin.com/in/rafael-gon%C3%A7alves-520368184/)
 
 
+
+
 1 - Atividade de Dados Abertos
 ![image](https://github.com/user-attachments/assets/6b9248c9-fb61-448b-85ff-3bb0b143acda)
 
