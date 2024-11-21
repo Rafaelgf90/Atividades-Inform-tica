@@ -33,7 +33,16 @@ https://app.powerbi.com/links/BabtCxdpcs?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 
 
+
 4 - Power BI, Fórmulas, KPI e GitHub
 https://kenvue-my.sharepoint.com/:u:/p/RDeFaria/EZH3iSYDbVROhBkX7AWL_EQBXVPk3dbuYA-xTxhiGz9fmw?email=RDeFaria%40kenvue.com&e=MaVcY1
 
 <img width="662" alt="image" src="https://github.com/user-attachments/assets/a9f4dab6-01b5-427d-8631-f99ab0c380ec">
+
+
+
+
+5 - Atividade Power Apss - Criando aplicativo
+![image](https://github.com/user-attachments/assets/967d87fe-b37d-471e-aea8-599680698309)
+
+https://apps.powerapps.com/play/e/7b46db46-058f-edfc-9f9f-95a5079597ed/a/a55bbfa6-c746-4455-b9f1-e098c69a6c11?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=sharebutton&sourcetime=1732228477648
