@@ -39,6 +39,12 @@ https://kenvue-my.sharepoint.com/:u:/p/RDeFaria/EZH3iSYDbVROhBkX7AWL_EQBXVPk3dbu
 <img width="662" alt="image" src="https://github.com/user-attachments/assets/a9f4dab6-01b5-427d-8631-f99ab0c380ec">
 
 
+5 - Prova de Informática
+![image](https://github.com/user-attachments/assets/731f297c-2655-4855-9370-276f1c047ac7)
+
+
+
+
 
 
 5 - Atividade Power Apss - Criando aplicativo
